@@ -13,6 +13,6 @@ These are the features/abilities I thought the compendium should have when I fir
 <br>
 # Target Audience (Who it’s for) 
 This application has two main users which it's targeting which are newcomers and power users.
-  - Linux Curious: People who are new to the Linux ecosystem and want to explore the ecosystem without any stakes or pressure
-  - OS Refugees: People who are escaping their current OSes (Windows or Mac) because of windows telemetry, forced co-pilot, increasing mac prices, etc. that wants a stable and good alternative
-  - Power User & Distro-Hopper: Enthusiasts who want a fast, structured way to explore niche distributions, check package availability, and test-drive environments without messy dual-boot setups
+  1. Linux Curious: People who are new to the Linux ecosystem and want to explore the ecosystem without any stakes or pressure
+  2. OS Refugees: People who are escaping their current OSes (Windows or Mac) because of windows telemetry, forced co-pilot, increasing mac prices, etc. that wants a stable and good alternative
+  3. Power User & Distro-Hopper: Enthusiasts who want a fast, structured way to explore niche distributions, check package availability, and test-drive environments without messy dual-boot setups
