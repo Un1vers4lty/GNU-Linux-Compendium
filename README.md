@@ -1,5 +1,5 @@
 # GNU/Linux Compendium
-A local/on-device application designed to solve Linux fragmentation. Uses a deterministic algorithm with tags and natural language intent parsing to have a distro search engine with embedded VM's and compatibility checkers (for software, games, hardware, etc.) and a living wiki for up-to-date advice
+A local/on-device application designed to solve Linux fragmentation. Uses a deterministic algorithm with tags and natural language intent parsing to have a distro search engine with embedded VM's and compatibility checkers (for software, games, hardware, etc.) and a living wiki for up-to-date advice  
 # Initial Product Vision
 These are the features/abilities I thought the compendium should have when I first came up with the idea for this application. These features could have been dropped or changed, with some being a bit hard to describe in a good way.
   1. Each distro has identification tags (in groups like primary use case, vibe, difficulty, base/family, versatility, and release model) to help in the search & match feature
