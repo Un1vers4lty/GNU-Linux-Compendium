@@ -16,5 +16,3 @@ This application has two main users which it's targeting which are newcomers and
   - Linux Curious: People who are new to the Linux ecosystem and want to explore the ecosystem without any stakes or pressure
   - OS Refugees: People who are escaping their current OSes (Windows or Mac) because of windows telemetry, forced co-pilot, increasing mac prices, etc. that wants a stable and good alternative
   - Power User & Distro-Hopper: Enthusiasts who want a fast, structured way to explore niche distributions, check package availability, and test-drive environments without messy dual-boot setups
-<br>
-# The Tools being used to make it
