@@ -32,8 +32,8 @@ This application has two main users which it's targeting which are newcomers and
   - Why it's made with that: It uses the native virtualization hypervisors rather than one monolithic hypervisor to make sure that its VM capabilities work natively on each OS with users interested in Linux
 	
 # Project Status & Current Milestone
-Current Status: Planning & Initializing (v0.1 prep)
-Immediate Next Step: 
+1. Current Status: Planning & Initializing (v0.1 prep)
+2. Immediate Next Step: 
   - Finishing the parsing system foundations
   - Establish the tag points system
   - Writing the YAML files for the initial distros used
