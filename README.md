@@ -39,3 +39,4 @@ This application has two main users which it's targeting which are newcomers and
   - Writing the YAML files for the initial distros used
   - Writing the RUST intent-matching CLI
   - Initializing in the Tauri Shell
+  - Finding Devs to help me build this
