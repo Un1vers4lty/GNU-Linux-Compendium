@@ -1,4 +1,5 @@
-Catalysts (The Features) - The main abilities and core strengths of a distribution to explain what it’s built on, who it’s for, how it looks, and what it excels at doing.
+# Catalysts (The Features) - The main abilities and core strengths of a distribution to explain what it’s built on, who it’s for, how it looks, and what it excels at doing.
+
 	•	Base/Family - The ancestral roots and core package architecture of the operating system
 	1	Debian
 	1	Focuses heavily on free software and extreme stability. Uses .deb packages and the apt package manager.
