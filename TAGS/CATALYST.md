@@ -1,34 +1,23 @@
 # Catalysts (The Features) - The main abilities and core strengths of a distribution to explain what it’s built on, who it’s for, how it looks, and what it excels at doing.
-
-	•	Base/Family - The ancestral roots and core package architecture of the operating system
-	1	Debian
-	1	Focuses heavily on free software and extreme stability. Uses .deb packages and the apt package manager.
-	2	Arch
-	1	A minimalist, bleeding-edge ecosystem built for users who want total control. Uses pacman and features the Arch User Repository (AUR). 
-	3	Slackware
-	1	The oldest active distro, built to mirror traditional Unix. It eschews modern automated dependencies in favor of simple tarball packages and manual control. 
-	4	Gentoo
-	1	A source-based powerhouse where everything is compiled locally from scratch using portage and USE flags for ultimate optimization. 
-	5	RedHat
-	1	The enterprise titan. It prioritizes corporate-grade security, long-term predictability, and commercial support, utilizing the .rpm format and dnf. 
-	6	SUSE
-	1	The pioneering European enterprise giant. Distinguished by its advanced system admin engine (YaST) and powerful snapshot integration. 
-	7	Independent
-	1	A distribution built entirely from scratch with its own unique codebase and package management, without forming a massive downstream family.
-
+	• Base/Family - The ancestral roots and core package architecture of the operating system.
+		1. Debian: Focuses heavily on free software and extreme stability. Uses .deb packages and the apt package manager.
+		2. Arch: A minimalist, bleeding-edge ecosystem built for users who want total control. Uses pacman and features the Arch User Repository (AUR). 
+		3. Slackware: The oldest active distro, built to mirror traditional Unix. It eschews modern automated dependencies in favor of simple tarball packages and manual control. 
+		4. Gentoo: A source-based powerhouse where everything is compiled locally from scratch using portage and USE flags for ultimate optimization. 
+		5. RedHat: The enterprise titan. It prioritizes corporate-grade security, long-term predictability, and commercial support, utilizing the .rpm format and dnf. 
+		6. SUSE: The pioneering European enterprise giant. Distinguished by its advanced system admin engine (YaST) and powerful snapshot integration. 
+		7. Independent: A distribution built entirely from scratch with its own unique codebase and package management, without forming a massive downstream family.
 	•	Difficulty - The technical barrier to entry and expected Linux skill level.
-	1	Noob-Friendly
-	1	Works right out of the box with graphical installers, app stores, and zero mandatory command-line use.
-	2	Comfortable
-	1	Easy for day-to-day use, but requires a basic understanding of how to manage repositories or troubleshoot minor papercuts.
-	3	Tinkerer
-	1	Designed for users who enjoy modifying configuration files, custom environments, and tailoring the system to their specific workflow.
-	4	DIY-Heavy
-	1	Drops the user into a command line upon installation. Expects you to manually build your system partition-by-partition, package-by-package.
-	5	Guru-Level
-	1	Requires deep knowledge of operating system architecture, kernel parameters, compilation flags, and manual system building.
-
+		1. Noob-Friendly: Works right out of the box with graphical installers, app stores, and zero mandatory command-line use.
+		2. Comfortable: Easy for day-to-day use, but requires a basic understanding of how to manage repositories or troubleshoot minor papercuts.
+		3. Tinkerer: Designed for users who enjoy modifying configuration files, custom environments, and tailoring the system to their specific workflow.
+		4. DIY-Heavy: Drops the user into a command line upon installation. Expects you to manually build your system partition-by-partition, package-by-package.
+		5. Guru-Level: Requires deep knowledge of operating system architecture, kernel parameters, compilation flags, and manual system building.
 	•	Vibe - The distinct cultural personality and aesthetic feel of the distribution.
+		1.
+	
+
+	
 	1	Terminal-Dweller
 	1	Text-only focus. Prioritizes keyboard shortcuts, efficiency, and a lifestyle spent inside a command prompt.
 	2	Retro/Nostalgic
@@ -39,30 +28,18 @@
 	1	Feels familiar, safe, and warm. Intended to stay out of the user's way and provide a reassuring desktop experience.
 	5	Tinkerer’s Canvas
 	1	Starts out completely blank for the user to make every aspect of it to their tastes. 
-	6	Unbreakable Fortress
-	1	Built with a set it and forget it design and locks down core files to be untamperable by accidental user mistakes or bad updates. Gives up on customization for security. 
-
+		6.Unbreakable Fortress: Built with a set it and forget it design and locks down core files to be untamperable by accidental user mistakes or bad updates. Gives up on customization for security. 
 	•	Primary Use Cases - The specific jobs or workloads the operating system is tailored to handle.
-	1	General Use
-	1	Everyday tasks like web browsing, watching movies, document editing, and casual computing.
-	2	Gaming
-	1	Comes pre-packaged or highly optimized with graphics drivers, compatibility layers (Proton/Wine), and gaming store clients and/or console modes.
-	3	Creative/Multimedia
-	1	Tailored for video editing, audio production, and 3D modeling, often featuring low-latency kernels.
-	4	Development
-	1	Stacked with programming languages, compilers, containers, and development environments out of the box.
-	5	Older Hardware
-	1	Stripped of heavy resource requirements to breathe new life into computers built a decade or more ago.
-	6	Privacy & Security
-	1	Heavily sandboxed or routed through encrypted networks to prevent user tracking and data collection.
-	7	Server
-	1	A headless, lean system built to run continuously in the background hosting files, websites, or applications.
-	8	Enterprise
-	1	Designed for massive corporate deployments, offering predictable lifecycles, volume licensing management, and compliance tools.
-	9	Cybersecurity
-	1	Pre-loaded with tools specifically meant for penetration testing, network mapping, and vulnerability assessment.
-	10	Academic
-	1	Built with specialized software suites for mathematics, statistical analysis, engineering, and scientific research.
+		1. General Use: Everyday tasks like web browsing, watching movies, document editing, and casual computing.
+		2. Gaming: Comes pre-packaged or highly optimized with graphics drivers, compatibility layers (Proton/Wine), and gaming store clients and/or console modes.
+		3. Creative/Multimedia: Tailored for video editing, audio production, and 3D modeling, often featuring low-latency kernels.
+		4. Development: Stacked with programming languages, compilers, containers, and development environments out of the box.
+		5. Older Hardware: Stripped of heavy resource requirements to breathe new life into computers built a decade or more ago.
+		6. Privacy & Security: Heavily sandboxed or routed through encrypted networks to prevent user tracking and data collection.
+		7. Server: A headless, lean system built to run continuously in the background hosting files, websites, or applications.
+		8. Enterprise: Designed for massive corporate deployments, offering predictable lifecycles, volume licensing management, and compliance tools.
+		9. Cybersecurity: Pre-loaded with tools specifically meant for penetration testing, network mapping, and vulnerability assessment.
+		10. Academic: Built with specialized software suites for mathematics, statistical analysis, engineering, and scientific research.
 
 	•	Versatility - How flexible the distribution is when you try to change its intended purpose.
 	1	Specialized
