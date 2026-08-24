@@ -59,3 +59,5 @@
       8. Init: The very first process (PID 1) started by the Linux kernel during boot, responsible for initializing the rest of the user space (e.g., systemd).  
       9. User space: The memory and execution area where user applications, utilities, and desktop environments run, completely separated from the privileged kernel space.
       10. Distro-Hopping: The common hobby among Linux users of constantly switching from one Linux distribution to another to find the best fit.
+
+
