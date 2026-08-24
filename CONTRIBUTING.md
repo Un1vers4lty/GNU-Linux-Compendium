@@ -16,7 +16,7 @@ Right now, you can contribute by:
 3. Run the project locally to test your changes.
 
 ## Submitting Changes
- 1. Fork the repo and create your feature branch: git checkout -b feature/amazing-feature
+ 1. Fork the repo and create your feature branch: E.G, git checkout -b feature/amazing-feature
  2. Commit your changes: git commit -m 'Add amazing new distro YAML'
  3. Push to the branch: git push origin feature/amazing-feature
  4. Open a Pull Request!
