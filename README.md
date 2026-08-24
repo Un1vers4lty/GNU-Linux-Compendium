@@ -36,7 +36,10 @@ This application has two main users which it's targeting which are newcomers and
 2. Immediate Next Step: 
   - Finishing the parsing system foundations
   - Establish the tag points system
+  - Establish Contributing Guidelines
+  - Finish the Roadmap/Release Schedule plan
+  - Write a Schema Validation YAML
   - Writing the YAML files for the initial distros used
+  - Finding Devs to help me build this
   - Writing the RUST intent-matching CLI
   - Initializing in the Tauri Shell
-  - Finding Devs to help me build this
