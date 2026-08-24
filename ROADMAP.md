@@ -15,3 +15,10 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 	•	v0.7 (Public Beta)
     	◦	Focus: We publish it onto the GitHub as an open beta for all to join and help use it to give feedback and find stuff to patch or change before releasing the first stable release
 
+# Phase 2: First Major Milestone
+
+# Phase 3: Expanding Foundations
+
+# Phase 4: The Next Evolution
+
+# Phase 5: Expanding Horizons
