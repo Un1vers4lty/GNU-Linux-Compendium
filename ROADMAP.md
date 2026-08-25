@@ -18,11 +18,11 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 # Phase 2: Runway & First Major Milestone (v1.0)
 This is the phase in which the app becomes a publicly available stable release, as well as the runway for this milestone.
   - v0.8 (Website Creation & Infrastructure)
-    - Focus: 
+    - Focus: Setting up the public landing page, hosting the project documentation, establishing installation guides, and laying out the contribution guidelines on GitHub.
   - v0.9 (Final Freeze/Release Candidate)
-    - Focus:
+    - Focus: Locking down the feature set entirely. No new features or distros are added here; the focus shifts completely to dogfooding, end-to-end testing across operating systems, and squashing remaining bugs.
   - v1.0 (General Availability)
-    - Focus: 
+    - Focus: The official public launch. Tagging the release, pushing out the first stable compiled binaries, publishing the official changelog, and sharing the project with the wider community to officially open the playground.
 
 # Phase 3: Expanding Foundations
 
