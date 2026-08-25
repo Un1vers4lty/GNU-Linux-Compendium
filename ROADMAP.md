@@ -25,6 +25,33 @@ This is the phase in which the app becomes a publicly available stable release, 
     - Focus: The official public launch. Tagging the release, pushing out the first stable compiled binaries, publishing the official changelog, and sharing the project with the wider community to officially open the playground.
 
 # Phase 3: Expanding Foundations
+  - v1.1 (ISO Fetcher & Verification Pipeline)
+    - Focus: Building the backend logic and UI hooks to securely fetch official ISO checksums and direct download links for selected distros, ensuring users pull uncorrupted images.
+  - v1.2 (USB Flash Wizard Prototype)
+    - Focus: Integrating cross-platform USB burning utilities into the Tauri app shell so users can safely select a target thumb drive and flash their chosen distro directly from the app.
+  -v1.3 (ISO & Flash wizard Polish & Bugsquashing)
+    _ Focus:
+  -v1.4 (ISO & Flash Wizard Stable Release)
+    - Focus:
+  -v1.5 (compatibility Data Schemas & integrations)
+    - Focus:
+  -v1.6 (
+  -v1.7 (
+  -v1.8 (
+  -v1.9 (
+  -v1.10 (
+  -v1.11 (
+  -v1.12 (
+  -v1.13 (
+  -v1.14 (
+  -v1.15 (
+  -v1.16 (
+  -v1.17 (
+  -v1.18 (
+  -v1.19 (
+  -v1.20 (
+  -v1.21 (
+   
 
 # Phase 4: The Next Evolution
 
