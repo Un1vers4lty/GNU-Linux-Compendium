@@ -15,7 +15,14 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v0.7 (Public Beta)
     - Focus: We publish it onto the GitHub as an open beta for all to join and help use it to give feedback and find stuff to patch or change before releasing the first stable release
 
-# Phase 2: First Major Milestone
+# Phase 2: Runway & First Major Milestone (v1.0)
+This is the phase in which the app becomes a publicly available stable release, as well as the runway for this milestone.
+  - v0.8 (Website Creation & Infrastructure)
+    - Focus: 
+  - v0.9 (Final Freeze/Release Candidate)
+    - Focus:
+  - v1.0 (General Availability)
+    - Focus: 
 
 # Phase 3: Expanding Foundations
 
