@@ -26,7 +26,12 @@ This is the phase in which the app becomes a publicly available stable release, 
 
 # Phase 3: Expanding Foundations
   - v1.1 (ISO Fetcher & Verification Pipeline)
+    - Focus: 
   - v1.2 (USB Flash Wizard Prototype)
+    - Focus: 
+  - v1.3 
+  - v1.4 
+
 
 v1.1 (ISO Fetcher & Verification Pipeline)Focus: Building the backend logic and UI hooks to securely fetch official ISO checksums and direct download links for selected distros, ensuring users pull uncorrupted images.v1.2 (USB Flash Wizard Prototype)Focus: Integrating cross-platform USB burning utilities into the Tauri app shell so users can safely select a target thumb drive and flash their chosen distro directly from the app.v1.3 (ISO & Flash Wizard Public Rollout & Polish)Focus: Stabilizing the complete onboarding loop (choose distro $\rightarrow$ fetch ISO $\rightarrow$ flash USB) with community bug testing and edge-case handling across Windows, Mac, and Linux hosts.v1.4 (Compatibility Data Schema & ProtonDB Integration)Focus: Establishing the database schema and Rust parser rules for hardware, game (ProtonDB), and application compatibility tags, pulling and caching initial crowd-sourced datasets.v1.5 (Compatibility Checker UI & Tweaking Guides)Focus: Building the interactive compatibility views into the distro cards, displaying performance ratings, known bugs, and step-by-step community tweaking guides directly inside the app.v1.6 (Advanced Distro Library & Tag Filters)Focus: Expanding user library management, adding advanced UI filtering sliders, and supporting custom tag-point weighting configurations for finer-grained searches.v1.7 (Community Patching & Performance Audits)Focus: Processing user feedback from the v1.x feature drops, squashing Rust parsing bottlenecks, and optimizing local SQLite query speeds.v1.8 (Taxonomy & Contributor Expansion)Focus: Broadening the YAML database to support niche distributions, immutable/atomic base tags, and specialized hardware profiles via GitHub pull requests.v1.9 (Pre-Virtualization Architecture Prep)Focus: Internal code refactoring and structural groundwork to safely integrate host-native hypervisors (KVM, HVF, WHP) for the upcoming major milestone.
 
