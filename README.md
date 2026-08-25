@@ -8,7 +8,7 @@ These are the features/abilities I thought the compendium should have when I fir
 3. A wiki-like support area which, unlike Reddit, has tags/notifs for if the post is outdated and how so, as well as a link and/or info on newer versions
 4. A built-in compatibility checker which checks how well games, creativity/productivity apps, specific hardware (specifications, peripherals, and so on), etc. work on Linux and how to tweak it to work well
 5. It can help you with the steps before you install a distro (such as booting said distro onto a flash drive, helping you to fetch the ISO, etc.) after you’ve chosen it and gone through the verification steps to make sure you’ve chosen it, and also make it easy to switch between distros after you've installed one 
-6. Run by a core team to maintain it and make sure it doesn’t sink but open for community involvement 
+6. Run by a core team to maintain it and make sure it doesn’t sink but rather remains open for community involvement 
 
 # Target Audience (Who it’s for) 
 This application has two main users which it's targeting which are newcomers and power users.
