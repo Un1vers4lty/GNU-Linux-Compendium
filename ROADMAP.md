@@ -1,3 +1,8 @@
+## Core Application Roadmap
+
+
+
+
 # Phase 1: Incubation & Foundations  
 In this phase, nothing has been set in stone. The goal is only to prove that everything does work.
   - v0.1 (Idea depth)
@@ -25,6 +30,9 @@ This is the phase in which the app becomes a publicly available stable release, 
     - Focus: The official public launch. Tagging the release, pushing out the first stable compiled binaries, publishing the official changelog, and sharing the project with the wider community to officially open the playground.
 
 # Phase 3: Expanding Foundations
+  - v1.1 (
+
+  
   - v1.1 (ISO Fetcher & Verification Pipeline)
     - Focus: 
   - v1.2 (USB Flash Wizard Prototype)
@@ -40,8 +48,12 @@ This is the phase in which the app becomes a publicly available stable release, 
   - v1.11 (Mid-Phase Stability & Dependency Bump)
   - v1.12 (Localization & Multi-Language Staging)
   - v1.13 (Advanced Comparison Views)
-  - v1.14 (
-
+  - v1.14 (Hardware Peripheral Tagging Expansion)
+  - v1.15 (Community Pull Request Tooling)
+  - v1.16 (UI/UX enhancement)
+  - v1.17 (Telemetry-free analytics & local logging)
+  - v1.18 (Extended Stress Testing)
+  - v1.19 Documentation & Contributor Guide Overhaul
 
 # Phase 4: The Next Evolution
 
