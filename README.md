@@ -1,7 +1,7 @@
 # GNU/Linux Compendium Summary
 A local/on-device application designed to solve Linux fragmentation. Uses a deterministic algorithm with tags and natural language intent parsing to have a distro search engine with embedded VM's and compatibility checkers (for software, games, hardware, etc.) and a living wiki for up-to-date advice  
 
-# Initial Product Vision
+## Initial Product Vision
 These are the features/abilities I thought the compendium should have when I first came up with the idea for this application. These features could have been abandoned or changed, with some being a bit hard to describe in a good way.
 1. Each distro has identification tags (in groups like primary use case, vibe, difficulty, base/family, versatility, and release model) to help in the search & match feature. The search & match feature is an ability that allows a visitor to type what they use their device for/want from it, and it uses that to match what they want with the tags of the distros to make a top x distros list
 2. The ability to have a distro library which you can add distros to, which allows you to click start on those distros and use them directly on your PC via a VM directly on your computer
@@ -10,13 +10,13 @@ These are the features/abilities I thought the compendium should have when I fir
 5. It can help you with the steps before you install a distro (such as booting said distro onto a flash drive, helping you to fetch the ISO, etc.) after you’ve chosen it and gone through the verification steps to make sure you’ve chosen it, and also make it easy to switch between distros after you've installed one 
 6. Run by a core team to maintain it and make sure it doesn’t sink but rather remains open for community involvement 
 
-# Target Audience (Who it’s for) 
+## Target Audience (Who it’s for) 
 This application has two main users which it's targeting which are newcomers and power users.
 1. Linux Curious: People who are new to the Linux ecosystem and want to explore the ecosystem without any stakes or pressure
 2. OS Refugees: People who are escaping their current OSes (Windows or Mac) because of windows telemetry, forced co-pilot, increasing mac prices, etc. that wants a stable and good alternative
 3. Power User & Distro-Hopper: Enthusiasts who want a fast, structured way to explore niche distributions, check package availability, and test-drive environments without messy dual-boot setups
 
-# The tech-stack used to make it and why?
+## The tech-stack used to make it and why?
 1. Frontend & Shell:
   - What its made with: Tauri + lightweight web framework (Svelte or Vue)
   - Why it's made with that: Tauri uses the hosts system’s native webview instead of bundling a heavy browser engine such as Electron. This keeps the app bundle size microscopic (hopefully under a few megabytes) and memory consumption low, while web frameworks like Svelte or Vue ensures that the reactive user interface renders instantly.
@@ -30,7 +30,7 @@ This application has two main users which it's targeting which are newcomers and
   - What its made with: Native Virtualization Framework (KVM on Linux, HVF on Mac, and WHP on Windows)
   - Why it's made with that: It uses the native virtualization hypervisors rather than one monolithic hypervisor to make sure that its VM capabilities work natively on each OS with users interested in Linux
 	
-# Project Status & Current Milestone
+## Project Status & Current Milestone
 1. Current Status: Planning & Initializing (v0.1 prep)
 2. Immediate Next Step: 
   - Finishing the parsing system foundations
