@@ -18,6 +18,19 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.0 (General Availability)
     - Focus: The official public launch. Tagging the release, pushing out the first stable compiled binaries, publishing the official changelog, and sharing the project with the wider community to officially open the playground.
 
+## Phase 2: Expanding Foundation
+  - v1.1 (ISO Fetcher & Flash Wizard)
+  - v1.2 (Compatibility)
+  - v1.3 (Library)
+  - v1.4 (Performance)
+  - v1.5 (Ecosystem Growth)
+
+
+
+## Phase 3:
+
+## Phase 4: 
+
 
 
 # Phase 3: Expanding Foundations
