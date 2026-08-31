@@ -12,7 +12,7 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v0.4 (Compendium Visualizer)
     - Focus: Bringing in the branding and UI design. Structuring the results into clean, readable cards with proper styling, basic filtering options, and clear layouts for the distro data.
   - v1.0 Alpha 
-    - Focus: We start off with just me and the devs doing a comprehensive checking for any bugs and after we have our part completed, we bring a close group of contributors or watchers to test it
+    - Focus: We start off this phase by having me and the devs run extensive tests on every feature on the app and where it works or where it need to be improved, after our test is finished, we hand it off to close contributors willing to participate in a closed beta to find bugs and give feedback. 
   - v1.0 Beta
     - Focus: We publish it onto the GitHub as an open beta for all to join and help use it to give feedback and find stuff to patch or change before releasing the first stable release
   - v1.0 Release Preparation:
