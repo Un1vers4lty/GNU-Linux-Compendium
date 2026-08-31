@@ -32,8 +32,9 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.5 (Ecosystem Growth)
     - Focus:
   - v1.6 (Virtualization Prep & Integration)
-  - Focus:
+    - Focus:
   - v2.0 (Virtualization Update)
+    - Focus:
 
 ## Phase 3:
 
