@@ -1,4 +1,6 @@
 # Project Roadmap 
+Disclaimer: This roadmap is a rough patchwork for the order in which I would hope for it to go and is not final, but rather bound to be changed with time.
+
 ## Phase 1: Incubation & Foundations
 In this phase, nothing has been set in stone. The goal is only to prove that everything does work.
   - v0.1 (Idea depth)
@@ -20,12 +22,18 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 
 ## Phase 2: Expanding Foundation
   - v1.1 (ISO Fetcher & Flash Wizard)
-  - v1.2 (Compatibility)
-  - v1.3 (Library)
-  - v1.4 (Performance)
+    - Focus:
+  - v1.2 (Compatibility & Comparison)
+    - Focus:
+  - v1.3 (Library Enhancement)
+    - Focus:
+  - v1.4 (Performance & Memory Audits)
+    - Focus: 
   - v1.5 (Ecosystem Growth)
-
-
+    - Focus:
+  - v1.6 (Virtualization Prep & Integration)
+  - Focus:
+  - v2.0 (Virtualization Update)
 
 ## Phase 3:
 
