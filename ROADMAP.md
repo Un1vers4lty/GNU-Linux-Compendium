@@ -25,7 +25,7 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
     - Focus: Integrating a direct ISO downloading, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri desktop interface.
       - Note: The ISO Fetcher is only for those who don't know where to look for the ISO and should not be the primary way to download the ISOs
   - v1.2 (Compatibility & Comparison)
-    - Focus:
+    - Focus: Establishing the compatibility system (which checks your hardware, peripherals, and apps/games) as well as the advanced comparison views between distros.
   - v1.3 (Library Enhancement)
     - Focus:
   - v1.4 (Performance & Memory Audits)
