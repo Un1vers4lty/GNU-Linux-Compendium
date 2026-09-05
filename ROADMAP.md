@@ -22,7 +22,8 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 
 ## Phase 2: Expanding Foundation
   - v1.1 (ISO Fetcher & Flash Wizard)
-    - Focus:
+    - Focus: Integrating a direct ISO downloading, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri desktop interface.
+      - Note: The ISO fetcher also allows you to go and look for the ISO yourself rather than just having it do all of the work
   - v1.2 (Compatibility & Comparison)
     - Focus:
   - v1.3 (Library Enhancement)
@@ -32,7 +33,7 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.5 (Ecosystem Growth)
     - Focus:
   - v1.6 (Virtualization Prep & Integration)
-    - Focus:
+    - Focus: 
   - v2.0 (Virtualization Update)
     - Focus:
 
