@@ -77,3 +77,8 @@
 		3. Snap-Integrated: Relies on Canonical’s containerized app store ecosystem with background auto-updating daemons.
 		4. AUR-Native: Direct access to the massive, community-driven Arch User Repository for virtually any piece of software imaginable.
 		5. Source/Compilation: Expects users to compile software locally from source code or build scripts for maximum platform optimization.
+
+	•	Init Systems -
+
+
+	•	Bootloader -
