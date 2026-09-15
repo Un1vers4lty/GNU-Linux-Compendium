@@ -21,13 +21,12 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
     - Focus: The official public launch. Tagging the release, pushing out the first stable compiled binaries, publishing the official changelog, and sharing the project with the wider community to officially open the playground.
 
 ## Phase 2: Expanding Foundation
-  - v1.1 (ISO Fetcher & Flash Wizard)
-    - Focus: Integrating direct links to the location of download for ISOs available
-  
-      a direct ISO downloading, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri desktop interface.
-      - Note: the ISO Fetcher is only a secondary option for those who dont know where to find the ISOs or dont want to read through a guide
+  - v1.1 (ISO Director & Flash Wizard)
+    - Focus: Integrating an ISO director to help users find ISO downloads, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri app interface.
+      - Note: The ISO director provides direct links to the location of download for the ISO you want to download, and a guide on where to find it and paste it into the app to have it be flashed.
   - v1.2 (Compatibility & Comparison)
-    - Focus: Establishing the compatibility system (which checks your hardware, peripherals, and apps/games) as well as the advanced comparison views between distros.
+    - Focus: Establishing a compatibility sytem for hardware, peripheral, and apps/games compatibility and guides for potential or verified tweaks you can do to make stuff work as welll as adding an advanced comparison views between distros which shows you their tags, images from what their UI looks like, all pre-installed apps and software, etc.
+    
   - v1.3 (Library Enhancement)
     - Focus: 
   - v1.4 (Performance & Memory Audits)
