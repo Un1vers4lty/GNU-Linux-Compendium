@@ -22,7 +22,9 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 
 ## Phase 2: Expanding Foundation
   - v1.1 (ISO Fetcher & Flash Wizard)
-    - Focus: Integrating a direct ISO downloading, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri desktop interface.
+    - Focus: Integrating direct links to the location of download for ISOs available
+  
+      a direct ISO downloading, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri desktop interface.
       - Note: the ISO Fetcher is only a secondary option for those who dont know where to find the ISOs or dont want to read through a guide
   - v1.2 (Compatibility & Comparison)
     - Focus: Establishing the compatibility system (which checks your hardware, peripherals, and apps/games) as well as the advanced comparison views between distros.
