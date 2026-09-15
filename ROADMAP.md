@@ -25,10 +25,13 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
     - Focus: Integrating an ISO director to help users find ISO downloads, cryptographic verification, and a native Rust-powered USB flashing utility directly into the Tauri app interface.
       - Note: The ISO director provides direct links to the location of download for the ISO you want to download, and a guide on where to find it and paste it into the app to have it be flashed.
   - v1.2 (Compatibility & Comparison)
-    - Focus: Establishing a compatibility sytem for hardware, peripheral, and apps/games compatibility and guides for potential or verified tweaks you can do to make stuff work as welll as adding an advanced comparison views between distros which shows you their tags, images from what their UI looks like, all pre-installed apps and software, etc.
-    
+    - Focus: Establishing a compatibility sytem for hardware, peripheral, and apps (creativity & productivity apps, games, etc.) compatibility and guides for potential or verified tweaks you can do to make stuff work as welll as adding an advanced comparison views between distros which shows you their tags, images from what their UI looks like, all pre-installed apps and software, etc.
   - v1.3 (Library Enhancement)
-    - Focus: 
+    - Focus: Upgrading the local YAML metadata engine to ensure support for enhanced relational tagging (cross-referencing complex Catalysts and Antidotes) and introducing advanced multi-faceted direct filter combinations to match user preferences seemlessly as the library scales. 
+  - v1.4 (Performance & Memory Audits)
+    - Focus:
+    
+ 
   - v1.4 (Performance & Memory Audits)
     - Focus: Going through the entire frontend, backend, systems, etc. to optimize anything that leaves an excessive footprint on memory, CPU, etc. or uses those resources inefficiently. 
   - v1.5 (Ecosystem Growth)
