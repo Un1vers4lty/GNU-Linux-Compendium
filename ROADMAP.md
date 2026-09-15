@@ -29,6 +29,12 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.3 (Library Enhancement)
     - Focus: Upgrading the local YAML metadata engine to ensure support for enhanced relational tagging (cross-referencing complex Catalysts and Antidotes) and introducing advanced multi-faceted direct filter combinations to match user preferences seemlessly as the library scales. 
   - v1.4 (Performance & Memory Audits)
+    - Focus: Performing an app-wide (frontend UI, Rust backend parsing, the local assets, etc. to eliminate memory leaks, minimizing resource consumption during idle states, inefficient usage, ensuring snappy query response times, and potential or existing strain on CPU, Ram, etc. before we add the Virtual Machine Workloads.
+  - v1.5 (Ecosystem Growth)
+    - Focus: 
+  - v1.6 (Wiki Support Foundations)
+    - Focus:
+  - v1.7 (Virtualization Prep & Integration)
     - Focus:
     
  
