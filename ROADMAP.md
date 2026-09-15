@@ -29,7 +29,7 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.3 (Library Enhancement)
     - Focus: 
   - v1.4 (Performance & Memory Audits)
-    - Focus: Going through the entire frontend, backend, systems, etc. to optimize anything that leaves an excessive footprint on memory, CPU, etc. or is inefficient
+    - Focus: Going through the entire frontend, backend, systems, etc. to optimize anything that leaves an excessive footprint on memory, CPU, etc. or uses those resources inefficiently. 
   - v1.5 (Ecosystem Growth)
     - Focus:
   - v1.6 (Virtualization Prep & Integration)
