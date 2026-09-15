@@ -35,7 +35,7 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.6 (Virtualization Prep & Integration)
     - Focus: 
   - v2.0 (Virtualization Update)
-    - Focus: Shipping the finalized product of the integrated local device VM's and distro library
+    - Focus: Delivering the finalized producct for the integrated local device VM's and distro library as an official release. 
 
 ## Phase 3:
 
