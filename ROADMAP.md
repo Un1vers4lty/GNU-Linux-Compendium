@@ -44,35 +44,3 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
 ## Phase 3:
 
 ## Phase 4: 
-
-
-
-# Phase 3: Expanding Foundations
-  - v1.1 (
-
-  
-  - v1.1 (ISO Fetcher & Verification Pipeline)
-    - Focus: 
-  - v1.2 (USB Flash Wizard Prototype)
-    - Focus: 
-  - v1.3 (ISO & USB Polish & Bug Squashing)
-  - v1.4 (ISO & USB Public Rollout)
-  - v1.5 (Compatibility Data Schemas & Integrations)
-  - v1.6 (Compatibility Tweaking Guides)
-  - v1.7 (Compatibility UI)
-  - v1.8 (Advanced Distro Library & Tag Filters)
-  - v1.9 (Community Patching & Performance Audits)
-  - v1.10 (Performance & Memory Optimization)
-  - v1.11 (Mid-Phase Stability & Dependency Bump)
-  - v1.12 (Localization & Multi-Language Staging)
-  - v1.13 (Advanced Comparison Views)
-  - v1.14 (Hardware Peripheral Tagging Expansion)
-  - v1.15 (Community Pull Request Tooling)
-  - v1.16 (UI/UX enhancement)
-  - v1.17 (Telemetry-free analytics & local logging)
-  - v1.18 (Extended Stress Testing)
-  - v1.19 Documentation & Contributor Guide Overhaul
-
-# Phase 4: The Next Evolution
-
-# Phase 5: Expanding Horizons
