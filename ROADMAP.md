@@ -31,22 +31,18 @@ In this phase, nothing has been set in stone. The goal is only to prove that eve
   - v1.4 (Performance & Memory Audits)
     - Focus: Performing an app-wide (frontend UI, Rust backend parsing, the local assets, etc. to eliminate memory leaks, minimizing resource consumption during idle states, inefficient usage, ensuring snappy query response times, and potential or existing strain on CPU, Ram, etc. before we add the Virtual Machine Workloads.
   - v1.5 (Ecosystem Growth)
-    - Focus: 
+    - Focus: Expanding the community contribution tools by introducing features such as externalized plugin/extension support, and streamlined YAML schema submission tools (so users can submit new distros, updates, etc. without needing an entire codebase rework)
   - v1.6 (Wiki Support Foundations)
-    - Focus:
+    - Focus: Integrating the in-app community wiki access with contextual troubleshooting articles and crowdsourced solutions mapped directly to specific distros or distro tag, hardware components, common app compatibility hurdles, etc.
   - v1.7 (Virtualization Prep & Integration)
-    - Focus:
-    
- 
-  - v1.4 (Performance & Memory Audits)
-    - Focus: Going through the entire frontend, backend, systems, etc. to optimize anything that leaves an excessive footprint on memory, CPU, etc. or uses those resources inefficiently. 
-  - v1.5 (Ecosystem Growth)
-    - Focus:
-  - v1.6 (Virtualization Prep & Integration)
+    - Focus: Laying the foundations for the eventual additions of the VM's to the distro library feature, allowing for safe sandbox testing via lightweight VM integration (native hypervisors + efficient extra tools) so that users can test-drive/preview recommended distros/ISOs in a safe virtual environment via the app itself using their own computers parts rather than a computer somewhere else.
+  - v2.0 Beta (Virtualization Update)
+    - Focus: Introducing seemless VM provisioning directly inside of the app shell, upgrading teh rules engine for evaluating user hardware against an mostly (amap) offline database, integrating a crowdsourced advisor layer directly into recommendations and search flow, and upgrading the regex/keyword matching.
+  - v2.0 Alpha 
+    - Focus: Going through a period of just testimg all of the stuff done in the v2.0 Beta to find bugs, unpolished work, and other areas to improve upon.
+  - v2.0 (Crucible)
+    - Focus: The finalized update releasing the wiki in full, the VM's, and the compatibilty engine.
+
+## Phase 3: Expanding Horizons
+ - v2.1 ()
     - Focus: 
-  - v2.0 (Virtualization Update)
-    - Focus: Delivering the finalized producct for the integrated local device VM's and distro library as an official release. 
-
-## Phase 3:
-
-## Phase 4: 
