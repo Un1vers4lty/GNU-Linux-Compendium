@@ -1,7 +1,7 @@
-# Intended Goal for the Parser
+# Intended Purpose
     To allow for the user to write our their use cases for their computer/operating system in plain and have the app translate the technical mumbo jumbo to find the user's ideal list of distros 
 
-# Parts of the Parser System
+# Parts of the Parser 
     Part 1: Questions Slider
       Debrief: An adaptive slider to have the user determine how many questions (short form response) they are willing to do to find what distros are best for them
       Parameters:
