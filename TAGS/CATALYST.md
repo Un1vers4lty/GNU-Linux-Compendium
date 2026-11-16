@@ -78,7 +78,16 @@
 		4. AUR-Native: Direct access to the massive, community-driven Arch User Repository for virtually any piece of software imaginable.
 		5. Source/Compilation: Expects users to compile software locally from source code or build scripts for maximum platform optimization.
 
-	•	Init Systems -
-
-
-	•	Bootloader -
+	•	Init Systems - The foundational process manager that initializes the userland, boots services, and acts as PID 1.
+		1. Systemd: The dominant industry standard. Fast parallel service startup, extensive logging (journald), and tight integration with modern desktop environments.
+		2. OpenRC: A dependency-based init system that works alongside traditional sysvinit scripts, favored for speed and modularity on non-systemd distros.
+		3. Runit: An extremely lean, modern init scheme and process supervision tree focused on simplicity and fast boot times (used heavily by Void Linux).
+		4. SysVinit: The classic Unix boot system. Sequential, script-heavy, and straightforward, used by traditionalists and minimalists.
+		5. Dinit: A modern, dependency-based service manager and init system designed with robust concurrency and clean configuration syntax.
+		
+	• Bootloader - The low-level software responsible for loading the Linux kernel into memory during system startup.
+		1. GRUB2: The universal heavyweight standard. Supports virtually every filesystem, complex multi-boot setups, and rescue shells.
+		2. systemd-boot: A lean, modern UEFI boot manager. Incredibly fast and simple to configure on UEFI systems without complex script overhead.
+		3. EFISTUB: Booting the Linux kernel directly from the UEFI firmware without any intermediate bootloader.
+		4. rEFInd: A graphical, highly customizable boot manager that automatically detects operating systems with gorgeous icons.
+		5. U-Boot: The industry standard bootloader for embedded systems, ARM devices, and single-board computers (like Raspberry Pi).
