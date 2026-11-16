@@ -13,11 +13,11 @@ Parameters:
     Focus: Daily driver workflow and app management preferances
     Catalysts Covered:
     Antidotes Covered:
-Custom Compile (12-15 Questions)
+  Custom Compile (12-15 Questions)
     Focus: component customization and system behavior
     Catalysts Covered:
     Antidotes Covered:
-Full Diagnostic (16-20 Questions)
+  Full Diagnostic (16-20 Questions)
     Focus: low-level architecture and systems controls 
     Catalysts Covered:
     Antidotes Covered:
