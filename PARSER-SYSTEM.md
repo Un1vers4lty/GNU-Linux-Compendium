@@ -10,9 +10,9 @@ Parameters:
     1-2. Catalysts Covered:
     1-3. Antidotes Covered:
   2. Standard (8-11 Questions - Default mode)
-    2-1. Focus: Daily driver workflow and app management preferances
-    2-2. Catalysts Covered:
-    2-2. Antidotes Covered:
+   2-1. Focus: Daily driver workflow and app management preferances
+   2-2. Catalysts Covered:
+   2-2. Antidotes Covered:
   3. Custom Compile (12-15 Questions)
     Focus: component customization and system behavior
     Catalysts Covered:
